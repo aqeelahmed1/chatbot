@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-community
+gradio
+beautifulsoup4
+requests
+faiss-cpu
+justext
+chromadb
